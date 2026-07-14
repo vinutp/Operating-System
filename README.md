@@ -12,20 +12,7 @@ This repository contains practical lab assignments and exercises for Operating S
 | 6 | 06/11/25 | Advanced Process & System Calls | C |
 | 7 | 13/11/25 | Inter-process Communication | C |
 
-## Directory Structure
-
-```
-25_10_02-Task1-2/          - Lab 1: Directory operations and file handling
-25_10_09-Task1-2-3/        - Lab 2: Pointer and node structures
-25_10_16-Task1-2-3-4/      - Lab 3: Shell scripting exercises
-25_10_23-Task1-2-3-4/      - Lab 4: CPU scheduling algorithms
-25_10_30-Task1-2/          - Lab 5: Memory management exercises
-25_11_06-Task1-2-3/        - Lab 6: System calls and process management
-25_11_13-Task1-2-3/        - Lab 7: IPC and synchronization
-```
-
 ## Getting Started
-
 ### Prerequisites
 - GCC compiler (for C programs)
 - Bash shell (for shell scripts)
